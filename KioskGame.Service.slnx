@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KioskGame.Service.Tests/KioskGame.Service.Tests.csproj" Id="cf2e20d6-9d7a-4cfb-8033-40c3093fd89d" />
+  <Project Path="KioskGame.Service/KioskGame.Service.csproj" />
+</Solution>
