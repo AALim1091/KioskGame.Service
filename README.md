@@ -30,7 +30,9 @@ demonstrates clean backend architecture, service-oriented design, and API-first 
 
 
 ##Project Structure
-
+KioskGame.Service
+KioskGame.Service.Tests
+*
 KioskGame.Service
 │
 ├── Common
@@ -55,7 +57,7 @@ KioskGame.Service
 
 ---
 
-## 🔌 API Endpoints
+##API Endpoints
 
  Login / Start Session
 POST /api/game/login/{playerId}
@@ -104,7 +106,7 @@ POST /api/game/play/{playerId}
 2. Open the solution in Visual Studio
 3. Restore NuGet packages
 4. Run EF Core migrations if required
-5. Press **F5** to run the API
+5. Select kioskGame.Service as projet and run as https(play button at top) to run the API
 6. Test endpoints using Postman or UI
 
 ---
