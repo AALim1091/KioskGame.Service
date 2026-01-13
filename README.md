@@ -54,6 +54,9 @@ KioskGame.Service
 ├── Program.cs
 └── appsettings.json
 
+##Weighted Algorithm
+https://stackoverflow.com/questions/1761626/weighted-random-numbers 
+<img width="284" height="212" alt="image" src="https://github.com/user-attachments/assets/9cb202d1-0f73-4796-b465-80a5bddcef47" />
 
 ---
 
